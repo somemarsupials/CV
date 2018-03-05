@@ -50,7 +50,7 @@ As a physicist with philosophical training, I am familiar with thinking through 
 ## Education
 
 #### Makers Academy
-*October to January, 2014*
+*October to January, 2017-18*
 
 - Learned to write robust and well-tested code. See my [solution](https://github.com/somemarsupials/gilded-rose-ruby) to the Gilded Rose challenge
 - Showed that I can be a fast, independent learner. See our mid-course [machine learning](https://github.com/somemarsupials/cooking-challenge/graphs/contributors) mini-project!
