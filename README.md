@@ -1,10 +1,19 @@
 ## Theo Breuer-Weil
 
-I'm interested in programming and computer science. The logic makes me happy - in my head, writing code is a bit like playing with digital Lego. My journey began when I started tinkering with Python, which I've taught myself over the course of the past two years. I've since become familiar with Python's SciPy stack and played with tkinter, Python's native GUI toolkit. I've also learned to write code in C - I even read Kernighan and Ritchie's textbook. See my [attempt](https://github.com/somemarsupials/bnfparsing) at making a parser generator!
+I'm interested in programming and computer science. The logic makes me happy - in my head, writing code is a bit like playing with digital Lego. My journey began when I started tinkering with Python, which I've taught myself over the course of the past two years. I've also learned basic C.
 
-I enjoy nothing more than using the skills that I've acquired to achieve things. I started with a program designed to solve word problems that arise during a game I that play with friends. Later on, I started using Python at work to pick up things that Excel couldn't handle.
+I really enjoy using the skills that I've acquired to build things that solve problems. I started with a solver for a word game that I play with friends. Later on, I started using Python at work to pick up things that Excel couldn't handle.
 
 Since starting the course at [Makers Academy](#makers-academy), I've become proficient in Ruby and JavaScript. I've also gained experience with a range of web technologies, including React, web sockets, Rails and Express. I'm really keen to continue on my journey and find a place where I can improve as a developer.
+
+## Sample projects
+
+Project | Description | Stack
+--- | --- | ---
+[QuizLife](https://github.com/antoniobelmar/Pub-Quiz-App) | Quiz app using web sockets | Node.js, React, Mocha, Enzyme
+[Gilded Rose kata](https://github.com/somemarsupials/gilded-rose-ruby) | Solution to Gilded Rose kata | Ruby, Rspec
+[OhNotifier](https://github.com/somemarsupials/oh-notifier) | Jasmine-style test runner | Node.js
+[bnfparsing](https://github.com/somemarsupials/bnfparsing) | Experimental parser generator | Python, Unittest
 
 ## Skills
 
