@@ -1,8 +1,16 @@
 ## Theo Breuer-Weil
 
-I'm a really 
+I'm interested in programming and computer science. The logic makes me happy - in my head, writing code is a bit like playing with digital Lego. My journey began when I started tinkering with Python, which I've taught myself over the course of the past two years. I've since become familiar with Python's SciPy stack and played with tkinter, Python's native GUI toolkit. I've also learned to write code in C - I even read Kernighan and Ritchie's textbook. See my [attempt](https://github.com/somemarsupials/bnfparsing) at making a parser generator!
+
+I enjoy nothing more than using the skills that I've acquired to achieve things. I started with a program designed to solve word problems that arise during a game I that play with friends. Later on, I started using Python at work to pick up things that Excel couldn't handle.
+
+Since starting the course at [Makers Academy](#makers-academy), I've become proficient in Ruby and JavaScript. I've also gained experience with a range of web technologies, including React, web sockets, Rails and Express. I'm really keen to continue on my journey and find a place where I can improve as a developer.
 
 ## Skills
+
+#### Really curious about code
+
+See above!
 
 #### Project delivery
 
@@ -19,35 +27,28 @@ In my previous role involved developing models and tools for varying clients, in
 + led the development of a discrete choice model for the UK's Department for Transport
 + managed the delivery of life cycle assessment models for multiple UK businesses
 
+For example, I helped co-ordinate and build the model underpinning [this](http://www4.unfccc.int/ndcregistry/PublishedDocuments/Israel%20First/Israel%20INDC.pdf) report.
+
 #### Analysis
 
-As a physicist with philosophical training, I am familiar with thinking through tricky issues. I've used my analytical skills in a range of situations, including:
+As a physicist with philosophical training, I am familiar with thinking through tricky issues. I've used analytical skills in a range of situations, including:
 
 + Modelling global oil consumption in the road transport (BSc disseration project)
 + Assessing financial feasibility of energy storage in the UK (MSc thesis)
-+ 
-
-#### Really curious
-
-I'm interested in programming and computer science. The logic makes me happy - writing code is like playing with digital Lego. My journey began when I started tinkering with Python, which I've taught myself over the course of the past two years. I've since become familiar with Python's SciPy stack and tkinter, Python's native GUI toolkit. I've also learned to write code in C. I even read Kernighan and Ritchie's textbook! 
-
-I enjoy nothing more than using the skills that I've acquired to achieve things. I started with a program designed to solve word problems that arise during a game I that play with friends. Later on, I started using Python at work to pick up things that Excel couldn't handle.
-
-Since starting the course at [Makers Academy](#makers-academy), I've become proficient in Ruby and gained experience with a range of web technologies.
 
 ## Education
 
 #### Makers Academy
 *October to January, 2014*
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Learned to write robust and well-tested code. See my [solution](https://github.com/somemarsupials/gilded-rose-ruby) to the Gilded Rose challenge
+- Showed that I can be a fast, independent learner. See our mid-course [machine learning](https://github.com/somemarsupials/cooking-challenge/graphs/contributors) mini-project!
+- Got much better at collaborating. See my team's [final project](https://github.com/antoniobelmar/Pub-Quiz-App) (and [API](https://github.com/antoniobelmar/Pub-Quiz-API))!
 
+Also learned to employ the following technologies and mindsets:
 - OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, Node.js
+- RSpec, Jasmine, Mocha/Chai/Sinon
 
 #### MSc Economics and Policy of Energy and the Environment, UCL
 *September 2014 to September 2015*
@@ -64,7 +65,12 @@ Since starting the course at [Makers Academy](#makers-academy), I've become prof
 
 ## Experience
 
-**Ricardo Energy & Environment** (October 2014 to June 2017)    
+**Luminance** (February 2018 to March 2018)
+*Software developer*
+
+- Implemented an integration with a file sharing platform 
+
+**Ricardo Energy & Environment** (October 2014 to June 2017)
 *Consultant, Energy and Climate Change practice*
 
 - Participated in and managed development of models and tools for varied clients
