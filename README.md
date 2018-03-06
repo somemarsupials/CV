@@ -2,9 +2,7 @@
 
 I'm a full stack developer, currently looking for a junior developer role.
 
-I'm interested in programming and computer science. The logic makes me happy - in my head, writing code is a bit like playing with digital Lego. My journey began when I started tinkering with Python, which I've taught myself over the course of the past two years. I've also learned basic C.
-
-I really enjoy using the skills that I've acquired to build things that solve problems. I started with a solver for a word game that I play with friends. Later on, I started using Python at work to pick up things that Excel couldn't handle. Given that I enjoyed doing this for fun, I decided to leave my role as an environmental consultant and learn to develop software.
+I'm interested in programming and computer science. My journey began when I started tinkering with Python, which I've taught myself over the course of the past three years. Given that I enjoyed doing this in my spare time, I decided to leave my role as an environmental consultant and learn to develop software.
 
 Since completing a web development course at [Makers Academy](#makers-academy), I've become proficient in Ruby and JavaScript. I've also gained experience with a range of web technologies, including React, web sockets, Rails and Express. I'm really keen to continue on my journey and find a place where I can learn and improve as a developer.
 
