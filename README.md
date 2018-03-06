@@ -4,7 +4,7 @@ I'm a full stack developer, currently looking for a junior developer role.
 
 I'm interested in programming and computer science. My journey began when I started tinkering with Python, which I've taught myself over the course of the past three years. Given that I enjoyed doing this in my spare time, I decided to leave my role as an environmental consultant and learn to develop software.
 
-Since completing a web development course at [Makers Academy](#makers-academy), I've become proficient in Ruby and JavaScript. I've also gained experience with a range of web technologies, including React, web sockets, Rails and Express. I'm really keen to continue on my journey and find a place where I can learn and improve as a developer.
+Since completing a full stack web development course at [Makers Academy](#makers-academy), I've become proficient in Ruby and JavaScript. I've also gained experience with a range of web technologies, including React, web sockets, Rails and Express. I'm really keen to continue on my journey and find a place where I can learn and improve as a developer.
 
 ## Sample projects
 
@@ -16,10 +16,6 @@ Project | Description | Stack
 [bnfparsing](https://github.com/somemarsupials/bnfparsing) | Experimental parser generator | Python, Unittest
 
 ## Skills
-
-#### Really curious about code
-
-See above!
 
 #### Project delivery
 
@@ -44,6 +40,10 @@ As a physicist with philosophical training, I am familiar with thinking through 
 
 + Modelling global oil consumption in the road transport (BSc disseration project)
 + Assessing financial feasibility of energy storage in the UK (MSc thesis)
+
+#### Really curious about code
+
+See above! I really enjoy learning to use new technologies and understand new ideas. I've spent time learning to understand things like C and Redux and I think this helps me to write better code.
 
 ## Education
 
